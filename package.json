@@ -1,0 +1,39 @@
+{
+  "_from": "github:amcharts/amcharts3-react",
+  "_id": "amcharts3-react@1.1.8",
+  "_inBundle": false,
+  "_integrity": "sha1-JeHZGL53iPCMV23V58sCFNcbGZE=",
+  "_location": "/amcharts3-react",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "amcharts3-react@github:amcharts/amcharts3-react",
+    "name": "amcharts3-react",
+    "escapedName": "amcharts3-react",
+    "rawSpec": "github:amcharts/amcharts3-react",
+    "saveSpec": "github:amcharts/amcharts3-react",
+    "fetchSpec": null,
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "github:amcharts/amcharts3-react#77e35633b25367536f6e65d14ee959e458c4341a",
+  "_spec": "amcharts3-react@github:amcharts/amcharts3-react",
+  "_where": "/Users/gerrie/Desktop/MRM/GitHub/mrmapp-v1",
+  "bugs": {
+    "url": "https://github.com/amcharts/amcharts3-react/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "How to install ==============",
+  "homepage": "https://github.com/amcharts/amcharts3-react#readme",
+  "license": "SEE LICENSE IN LICENSE",
+  "main": "index.js",
+  "name": "amcharts3-react",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amcharts/amcharts3-react.git"
+  },
+  "version": "1.1.8"
+}
