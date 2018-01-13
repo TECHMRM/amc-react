@@ -240,7 +240,10 @@ console.warn("Version 1.0 is outdated. Please upgrade to version 2.0:\nhttps://g
 
   var id = 0;
 
-  AmCharts.React = React.createClass({
+  var createReactClass = require('create-react-class');
+
+  AmCharts.React = createReactClass({
+
     getInitialState: function () {
       return {
         id: "__AmCharts_React_" + (++id) + "__",
